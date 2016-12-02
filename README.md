@@ -1,4 +1,4 @@
-# HightowerRating
+# HightowerRating ![SuperDopeBadge](https://img.shields.io/badge/Hightower-super%20dope-b9f2ff.svg)
 Repository for maintaining Metadata for Hightower Ratings
 
 ## What is HightowerRating?
